@@ -1,3 +1,4 @@
+// u2410003 Abdijabborova Laziza
 #pragma once
 #include <string>
 using namespace std;
@@ -20,4 +21,5 @@ public:
      // Getter for password
     string getUsername() { return username; }
     string getPassword() { return password; }
+
 };
